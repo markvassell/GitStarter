@@ -1,4 +1,6 @@
-# Test for git init
+# Git for cs7830
+## Test for git init
 
-# Test for username and email
+## Test for username and email
 
+## Testing pull function
